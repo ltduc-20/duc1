@@ -1,0 +1,150 @@
+* {
+
+    padding: 0px;
+   
+    margin: 0px;
+   
+    box-sizing: border-box;
+   
+   }
+   body {
+
+ font-family: 'Rubik', sans-serif;
+
+ line-height: 1;
+
+ font-weight: 400;
+
+ color: #555;
+
+ font-size: 1.8rem;
+
+}
+header {
+
+    font-size: 4.4rem;
+   
+    text-align: center;
+   
+    padding: 0.8rem;
+   
+    background: #e78288;
+   
+    color: #fff3e8;
+   
+   }
+#tille
+{
+    background-color: orange;
+    text-align: center;
+}
+#title2
+{
+    font-family: 'Pacifico', cursive;
+
+    font-style: bold;
+   
+    font-size: 4.4rem;
+   
+    margin-bottom: 5.6rem;
+    line-height: 2px;
+}
+#tille3{
+    font-size: 3.6rem;
+
+    margin-bottom: 2.4rem;
+   
+    color: #e78229;
+   
+    font-weight: 600;
+}
+#tille4{
+    font-size: 28px;
+
+ margin-bottom: 25px;
+
+ font-style: italic;
+}
+.grid-2-cols {
+
+    display: grid;
+   
+    grid-template-columns: 1fr 1fr;
+   
+    padding: 2.4rem;
+    align-items: center;
+   
+   }
+   
+.css-image {
+
+    height: 20rem;
+   
+    width: 20rem;
+   
+    background-color: #e78229;
+   
+    justify-self: center;
+   
+    position: relative;
+   
+   }
+.img-01 
+{
+   
+    border-radius: 5% 40% 40% 40%;
+}
+.container {
+
+    max-width: 130rem;
+   
+    background-color: #fff3e8;
+   
+    margin: 0 auto;
+   
+}
+.padding {
+
+    padding: 3.6rem;
+   
+}   
+html
+{
+    font-size: 62,5%;
+}
+   
+ button {
+   
+    font-family: 'Rubik', sans-serif;
+   
+    font-size: 1.8rem;
+   
+    color: #555;
+   
+    font-weight: 60;
+   
+    padding: 2.4rem;
+   
+    display: inline-block;
+   
+    margin-right: 5rem;
+   
+    border: none;
+   
+    border-radius: 15px 15px 15px 15px;
+   
+    background-color: #ffc18b;
+   
+   
+   
+   }
+   #text
+   {
+    display: grid;
+
+ gap: 3.6rem;
+
+ margin-bottom: 4.8rem;
+
+   }
+   
